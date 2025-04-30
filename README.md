@@ -2,6 +2,8 @@
 
 This project develops a reinforcement learning framework to optimize intravenous fluid and vasopressor administration for septic shock patients in the ICU. Using the AmsterdamUMCdb dataset, we applied a Deep Q-Network (DQN) architecture in combination with patient clustering to personalize intervention strategies.
 
+> ⚠️ **Data Disclaimer**: This project uses AmsterdamUMCdb, a de-identified ICU dataset. Full access requires registration and approval. No raw data is included in this repository.
+
 ---
 
 ## 📁 Project Structure
