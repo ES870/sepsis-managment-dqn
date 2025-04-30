@@ -9,7 +9,7 @@ This project develops a reinforcement learning framework to optimize intravenous
 | File/Folder              | Description                                      |
 |--------------------------|--------------------------------------------------|
 | `sepsis_management_dqn.ipynb` | Main analysis and modeling notebook           |
-| `requirements.txt`       | List of Python packages needed                   |
+| `requirements.txt`       | List of python packages needed                   |
 | `images/`                | Visualizations of results              |
 
 ---
