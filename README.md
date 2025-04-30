@@ -20,3 +20,36 @@ This project develops a reinforcement learning framework to optimize intravenous
 
 ```bash
 git clone https://github.com/ES870/sepsis-management-dqn.git
+
+### Install required packages
+
+```bash
+pip install -r requirements.txt
+
+
+### Run the notebook
+```bash
+jupyter notebook
+
+⚠️ Note: This project uses data from AmsterdamUMCdb. Access requires registration.
+
+---
+
+## 🧠 Methods & Techniques
+
+- Data preprocessing and feature extraction
+- Patient clustering (unsupervised learning)
+- Deep Q-Networks (DQN)
+- Markov Decision Processes (MDP)
+- Reward shaping (SOFA scores & survival)
+
+---
+
+## ✅ Results
+- Personalized treatment policies learned through reinforcement learning
+- Promising steps toward data-driven clinical decision support in critical care
+
+---
+📬 Contact
+For questions or collaboration, feel free to reach out via my Homepage
+
