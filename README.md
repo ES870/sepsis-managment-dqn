@@ -52,5 +52,6 @@ jupyter notebook
 
 ---
 ## 📬 Contact
-For questions or collaboration, feel free to reach out via my Homepage
+For questions or collaboration, feel free to reach out via [my homepage](https://estock2.wixsite.com/evastock/portfolio).
+
 
