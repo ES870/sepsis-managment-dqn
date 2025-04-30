@@ -51,6 +51,50 @@ jupyter notebook
 - Promising steps toward data-driven clinical decision support in critical care
 
 ---
+
+## 📊 Key Visuals
+
+### 🔹 Cluster Evaluation Metrics
+
+![Cluster evaluation metrics](images/figure1_clustering_metrics.png)  
+*Figure 1: Clustering metrics used to select the optimal number of patient groups, including Elbow, Silhouette, Calinski-Harabasz, and Davies-Bouldin indices.*
+
+---
+
+### 🔹 DQN Training Performance
+
+![Training performance and loss curves](images/figure3_training_performance.png)  
+*Figure 2: Training and validation reward curves (left), training loss (middle), and performance metrics across episodes (right) for the DQN agent.*
+
+---
+
+### 🔹 Action Distribution by Patient Cluster
+
+![RL action heatmap](images/figure4_action_distribution.png)  
+*Figure 3: Heatmap showing action probabilities per cluster. Indicates how the RL agent tailors treatment policies to specific patient subgroups.*
+
+---
+
+### 🔹 Patient Statistics
+
+![Patient cluster stats](images/table1_patient_stats.png)  
+*Table 1: Summary statistics for each cluster including mortality rate, patient count, and average ICU length of stay.*
+
+---
+
+### 🔹 Action Space Overview
+
+![Action space table](images/table2_action_space.png)  
+*Table 2: Description of the 8 discrete actions used in the DQN environment, mapping each to specific ranges of vasopressor and IV fluid dosages.*
+
+---
+
+### 🔹 DQN Network Architecture
+
+![DQN architecture](images/table3_dqn_architecture.png)  
+*Table 3: Overview of the Deep Q-Network architecture including layer types, activation functions, and output structure.*
+
+---
 ## 📬 Contact
 For questions or collaboration, feel free to reach out via [my homepage](https://estock2.wixsite.com/evastock/portfolio).
 
