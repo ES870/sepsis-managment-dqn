@@ -22,20 +22,17 @@ This project develops a reinforcement learning framework to optimize intravenous
 git clone https://github.com/ES870/sepsis-management-dqn.git
 
 ### Install required packages
-
-```bash
 pip install -r requirements.txt
 
 
 ### Run the notebook
-```bash
 jupyter notebook
 
 ⚠️ Note: This project uses data from AmsterdamUMCdb. Access requires registration.
 
 ---
 
-## 🧠 Methods & Techniques
+# 🧠 Methods & Techniques
 
 - Data preprocessing and feature extraction
 - Patient clustering (unsupervised learning)
@@ -45,7 +42,7 @@ jupyter notebook
 
 ---
 
-## ✅ Results
+# ✅ Results
 - Personalized treatment policies learned through reinforcement learning
 - Promising steps toward data-driven clinical decision support in critical care
 
